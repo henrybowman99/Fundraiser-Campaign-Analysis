@@ -24,11 +24,15 @@ Another important conclusion that can be drawn from the Theater Outcomes Based o
 One conclusion to make about the Outcomes Based on Goals is that for play campaigns with goals between $0-$29999 there is a negative relationship between goal size and campaign success rate. This is evident by looking at the line chart and seeing how the percentage of successful campaigns drops and percentage of failed campaigns increases as goal size rises within this range. 
 
 For plays with goals greater than $30000, however, there does not appear to be a strong relationship between success rate and goal size as there are several jumps and dives in success/failure rate as goal size increases in this range. This is likely due to the fact there are far fewer observations within this second range, which naturally leads to a greater level of randomness.
+## Limitations
+
 
 One clear limitation of the dataset is that the observations don't go into very much detail regarding the structure of each campaign. For example, the number of employees working for each campaign would also figure to have a strong impact on its success. Knowing these specifics would allow users of the dataset to compare their campaign to past campaigns with similar employee structure.
 
 In a similar vein, I believe that greater detail regarding the location of the campaigns would also improve the dataset. As it currently stands, the spreadsheet only discloses what country the campaign was created in, so anybody using the data is not able to filter the data down to a specific state/county/city or other smaller geographic region. Being able to filter the data further by location could uncover more conclusive patterns and trends. 
 
+
+## Possible Additions
 
 
 Another pivot table that I think would be interesting to create would be to have all countries as the rows, outcomes as the columns, and a sum of the outcomes as the values. I would also include a filter to allow for filtering by parent category and/or subcategory in order to view specific types of campaigns under this lens. I would then create a bar chart to display the results of the table, placing countries on the X-axis and the bars showing number of successes/failures/cancellations for each country. This analysis would allow me to see which countries certain types of campaigns have more/less success in and vice versa. 
