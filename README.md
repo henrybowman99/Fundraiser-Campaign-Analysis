@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# Fundraiser Campaign Analysis
 
 ## Overview of Project
 
